@@ -1,8 +1,7 @@
 # SSH-sniff
 
 This XRO tool is used for mass-scanning SSH servers. It uses a Python-based IP generator to test every IP for SSH connections and also reports whether an IP appears to be a honeypot.
-[SV1.zip](https://github.com/user-attachments/files/23283655/SV1.zip)
-[main.py](https://github.com/user-attachments/files/23283656/main.py)
+
 
 ---
 
